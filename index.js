@@ -12,6 +12,7 @@ function multiply(x,y) {
 
 function divide(x,y) {
   return x/y
+<<<<<<< HEAD
 }
 
 function inc(n) {
@@ -28,4 +29,6 @@ function makeInt(n) {
 
 function preserveDecimal(n) {
   return parseFloat(n)
+=======
+>>>>>>> 3ccd668fb1f0a961664e65026a40107afba6bad6
 }
